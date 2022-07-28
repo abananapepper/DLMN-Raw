@@ -271,6 +271,18 @@
   content: "\1F601";
 }
 
+#workskin .x1F97A:before {
+  content: "\1F97A";
+}
+
+#workskin .x1F448:before {
+  content: "\1F448";
+}
+
+#workskin .x1F449:before {
+  content: "\1F449";
+}
+
 /**Yasuo's phone*/
 #workskin .messagebody1 {
   min-width: 50px;
